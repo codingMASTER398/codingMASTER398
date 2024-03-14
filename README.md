@@ -1,12 +1,10 @@
 # I'm coding398.
-Aspiring node.js and JavaScript developer.
+silly dev, sometime game.
 
 Website: [coding398.dev](https://coding398.dev/)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmaster398&count_private=true&show_icons=true&theme=tokyonight)
+stuff i kno:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,electron,p5js,mongodb,npm,replit,discord)](https://skillicons.dev)
 
-![My Replit profile](https://rme.coding398.dev/codingMASTER398)
-
-### [Talk to me!](https://coding398.dev/contact.html)
-I'd love to hear from you!
-I don't normally collaborate any projects, but you can reach out for ideas or paid work.
+how i do:
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/codingmaster398?cardType=level&theme=gotham&preferLogin=false)](https://git.io/awesome-stats-card)
